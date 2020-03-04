@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the scientific name for brown rats?",
+    "possibleAnswers":
+    [
+      {"text":"Rattus rattus",
+      "correct":false },
+      {"text":"Rattus palmarum",
+      "correct":false },
+      {"text":"Rattus norvegicus",
+      "correct":true },
+      {"text":"Mus Musculus",
+      "correct":false }
+    ]
+  },
+  {
+    "question": "What are domesticated rats used for?",
+    "possibleAnswers":
+    [
+      {"text":"Scientific research",
+      "correct":false },
+      {"text":"Companionship",
+      "correct":false },
+      {"text":"Food for other animals",
+      "correct":false },
+      {"text":"All of the above",
+      "correct":true }
+    ]
+  },
+  {
+    "question": "What is a rat's diet?",
+    "possibleAnswers":
+    [
+      {"text":"Omnivore",
+      "correct":true },
+      {"text":"Herbivore",
+      "correct":false },
+      {"text":"Carnivore",
+      "correct":false },
+      {"text":"Granivore",
+      "correct":false }
+    ]
+  }
+]
